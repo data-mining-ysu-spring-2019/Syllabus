@@ -5,8 +5,8 @@ Conceptual
 3. Multiple linear Regression (matrix formulations).
 4. Poisson Regression: model formulation, explanation.
 5. Poisson Regression: goodness of fit, overdispersion.
-6. Regularization: types of regularization.
-7. Regularization:
+6. Regularization: bias-variance trade-off, multicollinearity, n>p, subset selection, shrinkage.
+7. Regularization: RR, LASSO, EN, cross-validation
 
 
 
