@@ -23,7 +23,7 @@ $ A0      : A point Longtitude
 $ A1      : A point Latitude 
 $ B0      : B point Longtitude 
 $ B1      : B point Latitude
-$ Distance: Distance for A To B
+$ Distance: Distance from A To B
 $ Weekday : Su Mo Tu We Th Fr Sa
 $ Hour    : Hour 
 $ Dists   : Vector Of Distances, as the route get through A to B(for example: turn left in 500 metr, turn right in 1000 metr)
