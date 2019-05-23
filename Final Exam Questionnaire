@@ -8,7 +8,11 @@ Conceptual
 6. Regularization: bias-variance trade-off, multicollinearity, n>p, subset selection, shrinkage.
 7. Regularization: RR, LASSO, EN, cross-validation
 8. K-NN (classification and regression, choosing k and overfitting)
-
+9. Desicion Tree (Teminology, CART (Gini, Entropy, Error rate), CHAID,Pruning, Overfitting, Model evaluation,  Interpretations) 
+10. Ensemble Methods (Types, Bagging, Boosting, Random Forest)
+11. Cluster analysis (Types of clusterings and clusters) + k-means (The logic, Choosing k, Bisecting k-means, limitations)
+12. Cluster analysis (Types of clusterings and clusters) + Hierarchical Clustering (The logic + Linkages)
+13. Survival Analysis 
 
 
 Applied
@@ -18,3 +22,6 @@ Applied
 3. C3&C4 - Doing in R.(+interpretations)
 4. C6&C7 - Doing in R.(+interpretations)
 5. C8 - Doing in R. (+interpretations)
+6. C9&C10 - Doing in R. (+interpretations)
+7. C10 - Doing in R. (+interpretations)
+8. C11&C12 - Doing in R. (+interpretations)
