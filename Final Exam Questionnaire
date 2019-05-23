@@ -1,7 +1,7 @@
 Conceptual
 
 1. The process of DM. Data types.
-2. Simple Linear Regression.
+2. Simple Linear Regression (t-statistics, R-squared, non-linear forms)
 3. Multiple linear Regression (matrix formulations).
 4. Poisson Regression: model formulation, explanation.
 5. Poisson Regression: goodness of fit, overdispersion.
