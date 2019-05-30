@@ -12,7 +12,7 @@ Conceptual
 10. Ensemble Methods (Types, Bagging, Boosting, Random Forest)
 11. Cluster analysis (Types of clusterings and clusters) + k-means (The logic, Choosing k, Bisecting k-means, limitations)
 12. Cluster analysis (Types of clusterings and clusters) + Hierarchical Clustering (The logic + Linkages)
-13. Correlation, Anscombe, The power of visualization
+13. Correlation, The power of visualization, Simpson's paradox, Anscombe
 
 
 Applied
