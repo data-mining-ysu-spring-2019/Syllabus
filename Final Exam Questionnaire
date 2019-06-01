@@ -1,18 +1,18 @@
 Conceptual
 
 1. The process of DM. Data types.
-2. Simple Linear Regression (t-statistics, R-squared, non-linear forms)
-3. Multiple linear Regression (matrix formulations).
+2. Simple Linear Regression (+t-statistics, R-squared, non-linear forms)
+3. Multiple linear Regression (+matrix formulations).
 4. Poisson Regression: model formulation, explanation.
 5. Poisson Regression: goodness of fit, overdispersion.
-6. Regularization: bias-variance trade-off, multicollinearity, n>p, subset selection, shrinkage.
-7. Regularization: RR, LASSO, EN, cross-validation
-8. K-NN (classification and regression, choosing k and overfitting)
+6. Regularization (+bias-variance trade-off, multicollinearity, n>p, subset selection, shrinkage)
+7. Regularization (+RR, LASSO, EN, cross-validation)
+8. K-NN (+ classification and regression, choosing k and overfitting)
 9. Desicion Tree (Teminology, CART (Gini, Entropy, Error rate), CHAID,Pruning, Overfitting, Model evaluation,  Interpretations) 
 10. Ensemble Methods (Types, Bagging, Boosting, Random Forest)
 11. Cluster analysis (Types of clusterings and clusters) + k-means (The logic, Choosing k, Bisecting k-means, limitations)
 12. Cluster analysis (Types of clusterings and clusters) + Hierarchical Clustering (The logic + Linkages)
-13. Correlation, The power of visualization, Simpson's paradox, Anscombe
+13. Correlation, the power of visualization, Simpson's paradox, Anscombe
 
 
 Applied
